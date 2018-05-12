@@ -1,0 +1,50 @@
+_repo: Adolphe_13861
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Constant, Benjamin
+    alias: Rebecque, Henri Benjamin Constant de
+    birthdate: 1767
+    deathdate: 1830
+    gutenberg_agent_id: '5256'
+    url: http://www.gutenberg.org/2009/agents/5256
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Constant
+description: "Adolphe is a classic French novel by Benjamin Constant, first published\
+  \ in 1816. It tells the story of an alienated young man, Adolphe, who falls in love\
+  \ with an older woman, Ellénore, the Polish mistress of the Comte de P***. Their\
+  \ illicit relationship serves to isolate them from their friends and from society\
+  \ at large. The book eschews all conventional descriptions of exteriors for the\
+  \ sake of detailed accounts of feelings and states of mind.\nConstant began the\
+  \ novel on 30 October 1806, and completed it some time before 1810. While still\
+  \ working on it he read drafts to individual acquaintances and to small audiences,\
+  \ and after its first publication in London and Paris in June 1816 it went through\
+  \ three further editions: in July 1816 (new preface), July 1824 in Paris (restorations\
+  \ to Ch. 8, third preface), and in 1828. Many variants appear, mostly alterations\
+  \ to Constant's somewhat archaic spelling and punctuation.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13861'
+  wikidata: Q1605244
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Commitment (Psychology) -- Fiction'
+- !lcc 'PQ'
+title: Adolphe
+url: http://www.gutenberg.org/ebooks/13861
+wikipedia:
+- https://fr.wikipedia.org/wiki/Adolphe_(roman)
+- https://pl.wikisource.org/wiki/Adolf
+- https://en.wikipedia.org/wiki/Adolphe
+- https://it.wikipedia.org/wiki/Adolphe_(romanzo)
+- https://ht.wikipedia.org/wiki/Adolphe
+- https://mk.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%BB%D1%84_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
