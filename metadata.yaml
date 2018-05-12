@@ -25,6 +25,8 @@ description: "Adolphe is a classic French novel by Benjamin Constant, first publ
   \ to Ch. 8, third preface), and in 1828. Many variants appear, mostly alterations\
   \ to Constant's somewhat archaic spelling and punctuation.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13861#Adolphe
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-10-25'
 gutenberg_type: Text
